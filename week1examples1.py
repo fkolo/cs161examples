@@ -22,7 +22,7 @@ print(distance(0,4,3,0))
 
 
 def factorial(num):
-    """Return the factorial of a number"""
+    """ Return the factorial of a number"""
     result = 1
     for count in range(1, num+1):
         result = result * count
